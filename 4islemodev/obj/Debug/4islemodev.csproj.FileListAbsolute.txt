@@ -1,0 +1,7 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\obj\Debug\4islemodev.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\obj\Debug\4islemodev.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\bin\Debug\4islemodev.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\bin\Debug\4islemodev.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\bin\Debug\4islemodev.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\obj\Debug\4islemodev.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\4islemodev\4islemodev\obj\Debug\4islemodev.pdb
